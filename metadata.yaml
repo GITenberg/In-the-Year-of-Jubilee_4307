@@ -1,0 +1,38 @@
+_repo: In-the-Year-of-Jubilee_4307
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gissing, George
+    alias: Gissing, George Robert
+    birthdate: 1857
+    deathdate: 1903
+    gutenberg_agent_id: '641'
+    url: http://www.gutenberg.org/2009/agents/641
+    wikipedia: http://en.wikipedia.org/wiki/George_Gissing
+description: "In the Year of Jubilee is the thirteenth novel by English author George\
+  \ Gissing. First published in 1894.\nIn the summer of 1893 Gissing returned to London\
+  \ after living for two years in Exeter, and took lodgings with his second wife at\
+  \ 76 Burton Road, Brixton: \"he realised that in South London there was a new territory\
+  \ open to a novelist’s exploitation. From Burton Road he went for long walks through\
+  \ nearby Camberwell, soaking up impressions of the way of life he saw emerging there.\"\
+  \ This led him to writing In the Year of Jubilee, the story of \"the romantic and\
+  \ sexual initiation of a suburban heroine, Nancy Lord.\" Gissing originally called\
+  \ his novel “Miss Lord of Camberwell”.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4307'
+  wikidata: Q19572195
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Victoria, Queen of Great Britain, 1819-1901 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'English fiction -- 19th century'
+- GITenberg
+title: In the Year of Jubilee
+url: http://www.gutenberg.org/ebooks/4307
+wikipedia:
+- https://en.wikipedia.org/wiki/In_the_Year_of_Jubilee
