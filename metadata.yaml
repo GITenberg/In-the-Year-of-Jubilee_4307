@@ -1,5 +1,8 @@
 _repo: In-the-Year-of-Jubilee_4307
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gissing, George
@@ -18,6 +21,8 @@ description: "In the Year of Jubilee is the thirteenth novel by English author G
   \ This led him to writing In the Year of Jubilee, the story of \"the romantic and\
   \ sexual initiation of a suburban heroine, Nancy Lord.\" Gissing originally called\
   \ his novel “Miss Lord of Camberwell”.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4307#In-the-Year-of-Jubilee
 gutenberg_issued: '2003-08-01'
 gutenberg_type: Text
 identifiers:
